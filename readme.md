@@ -130,7 +130,28 @@ Initialize values by running the 4 cells below
 Run the different codes below to see charts with their explanation
 ## Market Basket Analysis Explanation
 
-Still Waiting
+the market basket analysis is made in reference to Association
+rule mining, for example, the IF{} and THEN{} construct. in a 
+easy to understand example, IF{} a customer buys bread, THEN{}
+he/she is likely to buy butter as well.
+
+following the association rules: it will look like this
+{Bread} -> {Butter}
+
+Here are some terms to familiarize yourself with Market basket
+analysis.
+
+Antecedent: the items or itemsets that are found within the 
+data are called Antecedets, in simplier words, the Antecedents
+are the IF{} component, as can be seen in the association rule
+above
+
+Consequent: A Consequent is a item of a set of items that are
+found in combination with the antecedent, while the Antecedent
+is the IF{} component, the Consequent will be the THEN{}
+component.
+
+
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
